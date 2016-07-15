@@ -30,6 +30,8 @@
 
 #### Publishing destination
 
+Github: '//interfax/interfax-<lang>-samples'
+
 ## Uploading code to public package repositories
 
 * ? Java - http://mvnrepository.com
