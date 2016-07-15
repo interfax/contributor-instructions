@@ -32,6 +32,13 @@
 
 ## Uploading code to public package repositories
 
+* ? Java - http://mvnrepository.com
+* .Net - https://nuget.org
+* PHP - Composer @ https://packagist.org
+* Ruby - https://rubygems.org
+* Python - https://pypi.python.org/pypi
+* Perl - http://www.cpan.org/
+
 ### Naming
 
 ### Ownership
