@@ -8,13 +8,17 @@
 
 #### Tests
 
+#### Installation instructions
+
 #### Documentation
 
 #### Publishing destination
  
 ### 2. Compiled library (if supported by the development environment)
 
-#### Documentation ?
+#### Installation instructions
+
+#### Method documentation ?
 
 #### Publishing destination
 
