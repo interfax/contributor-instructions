@@ -15,7 +15,7 @@
 #### Publishing destination
 On Github: 
 ```
-//interfax/interfax-{lang}-lib-source
+//interfax/interfax-{lang}-lib-src
 ```
  
 ### 2. Compiled library (if supported by the development environment)
@@ -30,6 +30,7 @@ On Github:
 ```
 //interfax/interfax-{lang}-lib-{compiled}
 ```
+where `{compiled}` is a language-appropriate modifier
 
 ### 3. Usage samples
 
