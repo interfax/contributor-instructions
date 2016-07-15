@@ -13,6 +13,10 @@
 #### Documentation
 
 #### Publishing destination
+On Github: 
+```
+//interfax/interfax-{lang}-lib-source
+```
  
 ### 2. Compiled library (if supported by the development environment)
 
@@ -21,6 +25,11 @@
 #### Method documentation ?
 
 #### Publishing destination
+
+On Github: 
+```
+//interfax/interfax-{lang}-lib-{compiled}
+```
 
 ### 3. Usage samples
 
