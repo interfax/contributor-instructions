@@ -37,7 +37,8 @@
 * PHP - Composer @ https://packagist.org
 * Ruby - https://rubygems.org
 * Python - https://pypi.python.org/pypi
-* Perl - http://www.cpan.org/
+* Perl - http://www.cpan.org
+* Node.js - https://www.npmjs.com
 
 ### Naming
 
