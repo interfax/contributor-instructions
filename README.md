@@ -34,7 +34,7 @@
 
 * ? Java - http://mvnrepository.com
 * .Net - https://nuget.org
-* PHP - Composer @ https://packagist.org
+* PHP - Composer @ https://packagist.org / PEAR?
 * Ruby - https://rubygems.org
 * Python - https://pypi.python.org/pypi
 * Perl - http://www.cpan.org
