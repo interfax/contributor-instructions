@@ -46,7 +46,7 @@ README.md file in the library's root folder. The file will include the following
     * Directly from the latest Github release
 * Usage
 * Examples - link to samples repo
-* Documentation - link to further documentation on the public website
+* Documentation - link to further documentation on the public website as at the reference link above
 * Support - boilerplate text available at the reference link above
 * Contributing - boilerplate text available at the reference link above
 * License - MIT license as at the reference link above
@@ -59,7 +59,15 @@ will be documented in ...
 
 #### Coverage
 
+##### 1. SendFax - Submitting a fax for transmission
+
+##### 2. FaxStatus - Checking the status of a previously-submitted fax
+
+##### 3. ReceiveFax - Polling for new faxes and retrieving them
+
 #### Documentation
+
+Each sample will be separately documented in a README.md file in its dedicated directory.
 
 #### Publishing destination
 
