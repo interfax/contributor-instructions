@@ -76,7 +76,7 @@ will be documented in ...
 
 #### Documentation
 
-Each sample will be separately documented in a README.md file in its dedicated directory.
+The samples will be documented on the public website under a language-specific "Getting Started" document (e.g.[Getting started faxing from C#](https://www.interfax.net/en/dev/getting-started/csharp). The contributor needs to provide any language-specific instructions.
 
 #### Publishing destination
 
