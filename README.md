@@ -1,36 +1,59 @@
 # Contributor instructions
 
-## Code to create
+## Content to create
 
 ### 1. Wrapper library 
 
 #### Method coverage
 
+The following methods, available on the [InterFAX REST interface](https://www.interfax.net/en/dev/rest/reference) should be covered:
+
+* A
+* B
+* C
+
 #### Tests
 
-#### Installation instructions
+#### Publishing destination
+
+The library source code should be published Github at the following location: 
+
+```
+//interfax/interfax-{lang}
+```
+
+for example:
+
+````
+https://github.com/interfax/interfax-php
+````
+
+Where applicable, a compiled library will be published to one or both of the following destinations:
+
+1. To the language-appropriate public package repository.
+2. To the Github repository's 'releases'.
 
 #### Documentation
 
-#### Publishing destination
-On Github: 
-```
-//interfax/interfax-{lang}-lib-src
-```
+##### 'Getting started' documentation
+
+README.md file in the library's root folder. The file will include the following sections (see [reference for .Net](https://github.com/interfax/interfax-dotnet)):
+
+* Introduction with link to developer registration (see reference link above)
+* Table of contents
+* Installation
+    * Through the language-appropriate public package repository
+    * Directly from the latest Github release
+* Usage
+* Examples - link to samples repo
+* Documentation - link to further documentation on the public website
+* Support - boilerplate text available at the reference link above
+* Contributing - boilerplate text available at the reference link above
+* License - MIT license as at the reference link above
  
-### 2. Compiled library (if supported by the development environment)
+##### Library methods 
 
-#### Installation instructions
-
-#### Method documentation ?
-
-#### Publishing destination
-
-On Github: 
-```
-//interfax/interfax-{lang}-lib-{compiled}
-```
-where `{compiled}` is a language-appropriate modifier
+will be documented in ...
 
 ### 3. Usage samples
 
