@@ -61,9 +61,18 @@ will be documented in ...
 
 ##### 1. SendFax - Submitting a fax for transmission
 
-##### 2. FaxStatus - Checking the status of a previously-submitted fax
+* Send a single fax from a document in a file
+
+##### 2. GetFaxStatus - Checking the status of a previously-submitted fax
+
+* Retrieve list of completed faxes
+* Retrieve status and metadata of newly-completed fax
 
 ##### 3. ReceiveFax - Polling for new faxes and retrieving them
+
+* Retrieve list of unread incoming faxes
+* Retrieve fax image for all unread faxes
+* Mark retrieved faxes as read
 
 #### Documentation
 
