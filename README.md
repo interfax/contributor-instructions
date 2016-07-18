@@ -10,7 +10,7 @@ The following methods, available on the [InterFAX REST interface](https://www.in
 
 | REST method              | Comment |
 |--------------------------|---------|
-| `POST /outbound/faxes`    | Using a local file (PDF); demonstrate additional source types relevant to development environment|
+| `POST /outbound/faxes`    | Using a local file (PDF); demonstrate additional source types relevant to development environment, e.g. binary, path, stream|
 | `POST /outbound/faxes`     | Using a textual buffer (e.g. HTML) |
 | `POST /outbound/faxes`     | Sending multiple documents and all extended options |
 | `GET /outbound/faxes`      | Get a list of recent outbound faxes (which does not include batch faxes) |
