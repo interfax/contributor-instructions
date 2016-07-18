@@ -6,11 +6,26 @@
 
 #### Method coverage
 
-The following methods, available on the [InterFAX REST interface](https://www.interfax.net/en/dev/rest/reference) should be covered:
+The following methods, available on the [InterFAX REST interface](https://www.interfax.net/en/dev/rest/reference) should be covered. Use the [.Net code](https://github.com/interfax/interfax-dotnet/tree/master/Interfax.ClientLib) as reference.
 
-* A
-* B
-* C
+| REST method              | Comment |
+|--------------------------|---------|
+| `POST /outbound/faxes`    | Using a local file (PDF); demonstrate additional source types relevant to development environment|
+| `POST /outbound/faxes`     | Using a textual buffer (e.g. HTML) |
+| `POST /outbound/faxes`     | Sending multiple documents and all extended options |
+| `GET /outbound/faxes`      | Get a list of recent outbound faxes (which does not include batch faxes) |
+| `GET /outbound/faxes/completed/{list}` | Get details for a subset of completed faxes from a submitted list. (Submitted id's which have not completed are ignored). |
+| `GET /outbound/faxes/{id}` | Retrieves information regarding a previously-submitted fax, including its current status. |
+| `GET /outbound/faxes/{id}/image` | Retrieve the fax image (TIFF file) of a submitted fax. |
+| `GET /outbound/search` |  Search outbound faxes |
+| `POST /outbound/faxes/{id}/cancel` | Cancel a fax in progress |
+| `POST /outbound/faxes/{id}/resend` | Resubmit a fax for transmission |
+| `POST /outbound/faxes/{id}/hide` | Hide a fax from listing in queries (there is no way to unhide a fax). |
+| All `/outbound/documents` methods |  |
+| All `/inbound/faxes` methods |  |
+| `GET /accounts/self/ppcards/balance` |  |
+
+
 
 #### Tests
 
