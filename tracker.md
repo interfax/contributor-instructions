@@ -5,4 +5,4 @@
 | Library - compiled     | GH lib repo ("releases") |      |   +    |     |        |      +     |     +     |
 | Samples - source       | GH samples repo ("code") |      |   +    |     |        |      +     |     +     |
 | "Getting started" doc  | GH lib repo README.md    |      |        |     |        |      +     |     +     |
-| Public package manager |                          |      |        |     |        | + rubygems |           |
+| Public package manager |                          |      |        |     |        | + rubygems | + npmjs      |
