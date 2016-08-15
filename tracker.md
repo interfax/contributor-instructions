@@ -1,5 +1,6 @@
 |                        | Target                   | Java | .Net | PHP | Python |    Ruby    | Node.js |
 |------------------------|--------------------------|:----:|:----:|:---:|:------:|:----------:|:-------:|
+| Developer Name         |                          |      |     
 | Library - source       | GH lib repo ("code")     |      |   +  |     |        |      +     |         |
 | Library - compiled     | GH lib repo ("releases") |      |   +  |     |        |      +     |         |
 | Samples - source       | GH samples repo ("code") |      |   +  |     |        |      +     |         |
